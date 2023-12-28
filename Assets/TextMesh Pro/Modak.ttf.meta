@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5939c921e4a14d64ebdc23cef084f5ec
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Modak
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77feb7bac49aae143acd811795988ab7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
